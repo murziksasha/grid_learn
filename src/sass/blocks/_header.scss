@@ -1,0 +1,22 @@
+.header{
+    color:#fff;
+    .grid-container {
+        display: grid;
+        grid-template-columns: 200px 200px 200px;
+        grid-template-rows: 60px 60px 60px;
+        
+
+    }
+    
+    .grid-elem {
+        height: 50px;
+        background-color: rgb(170, 170, 245);
+        color: #fff;
+        line-height: 50px;
+        text-align: center;
+        font-size: 26px;
+        border: 1px solid #000;
+        border-radius: 4px;
+    }
+    
+}
